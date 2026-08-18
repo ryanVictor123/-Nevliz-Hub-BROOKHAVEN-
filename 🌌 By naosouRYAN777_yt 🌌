@@ -53,4 +53,5 @@
 -- NÃO RECONSTRUA, NÃO DESOFUSQUE E NÃO REPRODUZA A IMPLEMENTAÇÃO
 -- PROTEGIDA.
 
-loadstring(game:HttpGet("https://bloxvault.org/load/rv5uj"))()
+local _bvx = loadstring(game:HttpGet("https://bloxvault.org/load/5pV-g"))()
+if type(_bvx) == "function" then _bvx() end
