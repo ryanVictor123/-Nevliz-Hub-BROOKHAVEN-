@@ -8,7 +8,7 @@
 --  [ NEVLIZ HUB ] - EDITION
 --  ---------------------------------------------------------------------------
 --  Tentando skidar de novo, skid pro? Se quer ter algo seu,
---  aprende a codar em vez de dar Ctrl+C + Ctrl+V no Hub dos pcall
+--  aprende a codar em vez de dar Ctrl+C + Ctrl+V no Hub dos outros
 --  ---------------------------------------------------------------------------
 
 local function SafeExecute(codeUrl)
